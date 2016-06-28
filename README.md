@@ -1,6 +1,6 @@
 # VT323
 
-This font is [available on Google Web Fonts:](https://fonts.google.com/specimen/VT323)
+This font is [available on Google Web Fonts.](https://fonts.google.com/specimen/VT323)
 
 Contributions are welcome, subject to the SIL Open Font License v1.1, as set forth in LICENSE.txt in this repo.
 
