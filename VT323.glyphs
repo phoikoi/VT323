@@ -1,5 +1,5 @@
 {
-.appVersion = "907";
+.appVersion = "903";
 customParameters = (
 {
 name = isFixedPitch;
@@ -7,7 +7,7 @@ value = 1;
 }
 );
 date = "2016-07-04 08:23:01 +0000";
-familyName = "VT323 Newbuild";
+familyName = VT323;
 fontMaster = (
 {
 ascender = 800;
@@ -27201,6 +27201,14 @@ layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
 width = 400;
 }
 );
+}
+);
+instances = (
+{
+instanceInterpolations = {
+"DA6254B3-9514-4A47-8309-1A9185AEAC97" = 1;
+};
+name = Regular;
 }
 );
 unitsPerEm = 1000;
