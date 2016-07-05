@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="400"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" xOffset="30" yOffset="240"/>
+    <component base="_part.pixel" xOffset="210" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="30" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="190" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="320"/>
+    <component base="_part.pixel" xOffset="220" yOffset="400"/>
+    <component base="_part.pixel" xOffset="20" yOffset="-80"/>
+    <component base="_part.pixel" xOffset="200" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="60"/>
+    <component base="_part.pixel" xOffset="180"/>
+    <contour>
+      <point x="200" y="400" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

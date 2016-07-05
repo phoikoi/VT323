@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="400"/>
+  <unicode hex="005F"/>
+  <outline>
+    <component base="_part.pixeldbl"/>
+    <component base="_part.pixeldbl" xOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:04:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

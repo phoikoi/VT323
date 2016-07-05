@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="400"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <component base="_part.pixel" xOffset="150" yOffset="400"/>
+    <component base="_part.pixel" xOffset="180" yOffset="480"/>
+    <component base="_part.pixel" xOffset="120" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:31:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

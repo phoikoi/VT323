@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="400"/>
+  <unicode hex="2264"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="40" yOffset="160"/>
+    <component base="_part.pixel" xOffset="200" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="40"/>
+    <component base="_part.pixel" xOffset="200"/>
+    <component base="_part.pixel" xOffset="190" yOffset="480"/>
+    <component base="_part.pixel" xOffset="140" yOffset="400"/>
+    <component base="_part.pixel" xOffset="90" yOffset="320"/>
+    <component base="_part.pixel" xOffset="40" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 22:10:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

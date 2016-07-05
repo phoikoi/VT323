@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="400"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="30" yOffset="80"/>
+    <component base="_part.pixel" xOffset="70" yOffset="-80"/>
+    <component base="_part.pixeldbl" xOffset="30"/>
+    <component base="_part.pixel" xOffset="30" yOffset="-160"/>
+    <component base="_part.pixeldbl" xOffset="190" yOffset="80"/>
+    <component base="_part.pixel" xOffset="230" yOffset="-80"/>
+    <component base="_part.pixeldbl" xOffset="190"/>
+    <component base="_part.pixel" xOffset="190" yOffset="-160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

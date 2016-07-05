@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="400"/>
+  <unicode hex="0028"/>
+  <outline>
+    <component base="_part.pixel" xOffset="90" yOffset="160"/>
+    <component base="_part.pixel" xOffset="90" yOffset="240"/>
+    <component base="_part.pixel" xOffset="90" yOffset="320"/>
+    <component base="_part.pixel" xOffset="120" yOffset="400"/>
+    <component base="_part.pixel" xOffset="145" yOffset="480"/>
+    <component base="_part.pixel" xOffset="195" yOffset="560"/>
+    <component base="_part.pixel" xOffset="120" yOffset="80"/>
+    <component base="_part.pixel" xOffset="145"/>
+    <component base="_part.pixel" xOffset="195" yOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:16:27 +0000</string>
+    </dict>
+  </lib>
+</glyph>

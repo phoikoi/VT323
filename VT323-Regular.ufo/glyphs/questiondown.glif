@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="400"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="_part.pixel"/>
+    <component base="_part.pixeldbl" xOffset="40" yOffset="-80"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="-80"/>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel" xOffset="50" yOffset="160"/>
+    <component base="_part.pixel" xOffset="100" yOffset="240"/>
+    <component base="_part.pixel" xOffset="220"/>
+    <component base="_part.pixel" xOffset="100" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:59:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

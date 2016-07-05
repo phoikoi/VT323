@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="1">
+  <advance width="400"/>
+  <unicode hex="FB02"/>
+  <outline>
+    <component base="_part.pixel" xOffset="40" yOffset="80"/>
+    <component base="_part.pixel" xOffset="40" yOffset="160"/>
+    <component base="_part.pixel" xOffset="40" yOffset="240"/>
+    <component base="_part.pixel" xOffset="40" yOffset="400"/>
+    <component base="_part.pixeldbl" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="480"/>
+    <component base="_part.pixeldbl"/>
+    <component base="_part.pixel" xOffset="240" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="240" yOffset="240"/>
+    <component base="_part.pixel" xOffset="240" yOffset="320"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+    <component base="_part.pixel" xOffset="240" yOffset="480"/>
+    <component base="_part.pixel" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 14:36:31 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

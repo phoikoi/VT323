@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m" format="1">
+  <advance width="400"/>
+  <unicode hex="006D"/>
+  <outline>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" yOffset="240"/>
+    <component base="_part.pixel" yOffset="320"/>
+    <component base="_part.pixel" xOffset="80" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="190" yOffset="320"/>
+    <component base="_part.pixel" xOffset="240" yOffset="240"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="240" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240"/>
+    <component base="_part.pixel" xOffset="130" yOffset="240"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixel" xOffset="130" yOffset="80"/>
+    <component base="_part.pixel" xOffset="130"/>
+    <contour>
+      <point x="200" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 19:50:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

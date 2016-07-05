@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl" format="1">
+  <advance width="400"/>
+  <unicode hex="0022"/>
+  <outline>
+    <component base="_part.pixel" xOffset="40" yOffset="480"/>
+    <component base="_part.pixel" xOffset="40" yOffset="560"/>
+    <component base="_part.pixel" xOffset="200" yOffset="480"/>
+    <component base="_part.pixel" xOffset="200" yOffset="560"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:59:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

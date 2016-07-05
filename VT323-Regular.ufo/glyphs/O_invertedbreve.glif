@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oinvertedbreve" format="1">
+  <advance width="400"/>
+  <unicode hex="020E"/>
+  <outline>
+    <component base="O"/>
+    <component base="breveinvertedcomb" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 20:04:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

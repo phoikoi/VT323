@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzcaron" format="1">
+  <advance width="400"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" yOffset="320"/>
+    <component base="_part.pixel" yOffset="400"/>
+    <component base="_part.pixeldbl" yOffset="480"/>
+    <component base="_part.pixeldbl"/>
+    <component base="_part.pixel" yOffset="240"/>
+    <component base="_part.pixel" xOffset="100" yOffset="80"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixel" xOffset="130" yOffset="320"/>
+    <component base="_part.pixel" xOffset="100" yOffset="400"/>
+    <component base="_part.pixel" xOffset="130" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="190"/>
+    <component base="_part.pixel" xOffset="210" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="260" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="190" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="640"/>
+    <component base="_part.pixel" xOffset="190" yOffset="720"/>
+    <component base="_part.pixel" xOffset="50" yOffset="720"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 20:36:26 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

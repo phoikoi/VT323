@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="400"/>
+  <unicode hex="003F"/>
+  <outline>
+    <component base="_part.pixel" xOffset="220" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="140" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="60" yOffset="480"/>
+    <component base="_part.pixel" xOffset="220" yOffset="320"/>
+    <component base="_part.pixel" xOffset="170" yOffset="240"/>
+    <component base="_part.pixel" xOffset="120" yOffset="160"/>
+    <component base="_part.pixel" yOffset="400"/>
+    <component base="_part.pixel" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:58:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

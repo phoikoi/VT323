@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fraction" format="1">
+  <advance width="400"/>
+  <unicode hex="2044"/>
+  <outline>
+    <component base="_part.pixel" xOffset="145" yOffset="320"/>
+    <component base="_part.pixel" xOffset="115" yOffset="240"/>
+    <component base="_part.pixel" xOffset="85" yOffset="160"/>
+    <component base="_part.pixel" xOffset="55" yOffset="80"/>
+    <component base="_part.pixel" xOffset="175" yOffset="400"/>
+    <component base="_part.pixel" xOffset="205" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:32:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

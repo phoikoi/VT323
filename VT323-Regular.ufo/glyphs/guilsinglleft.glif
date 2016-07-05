@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft" format="1">
+  <advance width="400"/>
+  <unicode hex="2039"/>
+  <outline>
+    <component base="_part.pixel" xOffset="105" yOffset="80"/>
+    <component base="_part.pixel" xOffset="75" yOffset="160"/>
+    <component base="_part.pixel" xOffset="165"/>
+    <component base="_part.pixel" xOffset="105" yOffset="240"/>
+    <component base="_part.pixel" xOffset="165" yOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

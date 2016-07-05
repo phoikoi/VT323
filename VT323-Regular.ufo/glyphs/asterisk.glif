@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="400"/>
+  <unicode hex="002A"/>
+  <outline>
+    <component base="_part.pixel" xOffset="130" yOffset="400"/>
+    <component base="_part.pixel" xOffset="130" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="240"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixel" xOffset="130" yOffset="80"/>
+    <component base="_part.pixel" xOffset="20" yOffset="320"/>
+    <component base="_part.pixel" xOffset="20" yOffset="160"/>
+    <component base="_part.pixel" xOffset="220" yOffset="320"/>
+    <component base="_part.pixel" xOffset="220" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:39:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

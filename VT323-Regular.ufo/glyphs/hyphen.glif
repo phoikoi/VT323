@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="400"/>
+  <unicode hex="002D"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="60" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:17:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="1">
+  <advance width="400"/>
+  <unicode hex="0111"/>
+  <outline>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="50" yOffset="240"/>
+    <component base="_part.pixel" xOffset="210" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="50"/>
+    <component base="_part.pixel" xOffset="210" yOffset="160"/>
+    <component base="_part.pixel" xOffset="210"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+    <component base="_part.pixel" xOffset="210" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="180" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="110" yOffset="400"/>
+    <component base="_part.pixel" xOffset="210" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:43:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>
