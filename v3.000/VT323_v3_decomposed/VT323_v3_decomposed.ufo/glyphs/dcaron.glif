@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="400"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" yOffset="240"/>
+    <component base="_part.pixel" xOffset="190" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="50"/>
+    <component base="_part.pixeldbl" xOffset="50" yOffset="320"/>
+    <component base="_part.pixel" xOffset="190" yOffset="160"/>
+    <component base="_part.pixel" xOffset="190"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="240"/>
+    <component base="_part.pixel" xOffset="190" yOffset="400"/>
+    <component base="_part.pixel" xOffset="190" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="80"/>
+    <component base="_part.pixel" xOffset="300" yOffset="480"/>
+    <component base="_part.pixel" xOffset="300" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:05:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

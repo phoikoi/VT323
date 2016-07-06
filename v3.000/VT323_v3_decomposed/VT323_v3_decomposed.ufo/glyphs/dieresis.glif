@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="400"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="77" y="548"/>
+      <point x="76" y="531"/>
+      <point x="76" y="520" type="curve" smooth="yes"/>
+      <point x="76" y="509"/>
+      <point x="77" y="493"/>
+      <point x="80" y="480" type="curve"/>
+      <point x="160" y="480" type="line"/>
+      <point x="163" y="493"/>
+      <point x="164" y="509"/>
+      <point x="164" y="520" type="curve" smooth="yes"/>
+      <point x="164" y="531"/>
+      <point x="163" y="548"/>
+      <point x="160" y="560" type="curve"/>
+      <point x="80" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="548"/>
+      <point x="236" y="531"/>
+      <point x="236" y="520" type="curve" smooth="yes"/>
+      <point x="236" y="509"/>
+      <point x="237" y="493"/>
+      <point x="240" y="480" type="curve"/>
+      <point x="320" y="480" type="line"/>
+      <point x="323" y="493"/>
+      <point x="324" y="509"/>
+      <point x="324" y="520" type="curve" smooth="yes"/>
+      <point x="324" y="531"/>
+      <point x="323" y="548"/>
+      <point x="320" y="560" type="curve"/>
+      <point x="240" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="400" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:11:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

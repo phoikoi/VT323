@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="400"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="_part.pixel" xOffset="80" yOffset="80"/>
+    <component base="_part.pixel" xOffset="160" yOffset="160"/>
+    <component base="_part.pixel" xOffset="80" yOffset="240"/>
+    <component base="_part.pixel" xOffset="80" yOffset="400"/>
+    <component base="_part.pixeldbl" yOffset="320"/>
+    <component base="_part.pixel" xOffset="80" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="120"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:05:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

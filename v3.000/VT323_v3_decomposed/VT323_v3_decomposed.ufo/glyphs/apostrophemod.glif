@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="400"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="37" y="628"/>
+      <point x="36" y="611"/>
+      <point x="36" y="600" type="curve" smooth="yes"/>
+      <point x="36" y="589"/>
+      <point x="37" y="573"/>
+      <point x="40" y="560" type="curve"/>
+      <point x="120" y="560" type="line"/>
+      <point x="123" y="573"/>
+      <point x="124" y="589"/>
+      <point x="124" y="600" type="curve" smooth="yes"/>
+      <point x="124" y="611"/>
+      <point x="123" y="628"/>
+      <point x="120" y="640" type="curve"/>
+      <point x="40" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="548"/>
+      <point x="76" y="531"/>
+      <point x="76" y="520" type="curve" smooth="yes"/>
+      <point x="76" y="509"/>
+      <point x="77" y="493"/>
+      <point x="80" y="480" type="curve"/>
+      <point x="120" y="480" type="line"/>
+      <point x="123" y="493"/>
+      <point x="124" y="509"/>
+      <point x="124" y="520" type="curve" smooth="yes"/>
+      <point x="124" y="531"/>
+      <point x="123" y="548"/>
+      <point x="120" y="560" type="curve"/>
+      <point x="80" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="400" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:11:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

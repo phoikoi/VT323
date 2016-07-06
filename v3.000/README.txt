@@ -1,0 +1,1 @@
+This a decomposed version of VT323_v3 for review purposes only. The original is made with smart components which do not work outside of Glyphs.

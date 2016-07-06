@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="400"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="37" y="68"/>
+      <point x="36" y="51"/>
+      <point x="36" y="40" type="curve" smooth="yes"/>
+      <point x="36" y="29"/>
+      <point x="37" y="13"/>
+      <point x="40" y="0" type="curve"/>
+      <point x="200" y="0" type="line"/>
+      <point x="203" y="13"/>
+      <point x="204" y="29"/>
+      <point x="204" y="40" type="curve" smooth="yes"/>
+      <point x="204" y="51"/>
+      <point x="203" y="68"/>
+      <point x="200" y="80" type="curve"/>
+      <point x="40" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="68"/>
+      <point x="196" y="51"/>
+      <point x="196" y="40" type="curve" smooth="yes"/>
+      <point x="196" y="29"/>
+      <point x="197" y="13"/>
+      <point x="200" y="0" type="curve"/>
+      <point x="360" y="0" type="line"/>
+      <point x="363" y="13"/>
+      <point x="364" y="29"/>
+      <point x="364" y="40" type="curve" smooth="yes"/>
+      <point x="364" y="51"/>
+      <point x="363" y="68"/>
+      <point x="360" y="80" type="curve"/>
+      <point x="200" y="80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:11:00 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

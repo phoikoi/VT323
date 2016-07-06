@@ -1,13 +1,69 @@
 {
 .appVersion = "907";
+copyright = "Copyright (c) 2011, Peter Hull (peter.hull@oikoi.com), with Reserved Font Name \"VT323\".";
 customParameters = (
 {
 name = isFixedPitch;
 value = 1;
 }
 );
-date = "2016-07-04 08:23:01 +0000";
-familyName = VT323;
+date = "2016-07-06 08:15:39 +0000";
+designer = "Peter Hull";
+familyName = VT323_v2;
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TAT;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature ccmp;\012feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature zero;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012";
+name = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;\012language CAT;\012sub l periodcentered' l by periodcentered.loclCAT;\012sub L periodcentered' L by periodcentered.loclCAT;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TAT;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub f i by f_i;\012sub f l by f_l;\012";
+name = dlig;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;\012";
+name = zero;
+}
+);
 fontMaster = (
 {
 ascender = 800;
@@ -9045,7 +9101,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2016-07-05 20:34:23 +0000";
+lastChange = "2016-07-06 09:17:02 +0000";
 layers = (
 {
 anchors = (
@@ -9096,14 +9152,14 @@ transform = "{1, 0, 0, 1, 240, 320}";
 name = _part.pixeldbl;
 transform = "{1, 0, 0, 1, 80, 0}";
 piece = {
-"Pixel width" = 110;
+"Pixel width" = 130;
 };
 },
 {
 name = _part.pixeldbl;
 transform = "{1, 0, 0, 1, 80, 320}";
 piece = {
-"Pixel width" = 110;
+"Pixel width" = 130;
 };
 },
 {
@@ -26310,7 +26366,7 @@ width = 400;
 {
 color = 3;
 glyphname = apostrophemod;
-lastChange = "2016-07-05 20:47:34 +0000";
+lastChange = "2016-07-06 08:17:52 +0000";
 layers = (
 {
 anchors = (
@@ -27213,5 +27269,5 @@ name = Regular;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }

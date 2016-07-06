@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="1">
+  <advance width="400"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="77" y="308"/>
+      <point x="76" y="291"/>
+      <point x="76" y="280" type="curve" smooth="yes"/>
+      <point x="76" y="269"/>
+      <point x="77" y="253"/>
+      <point x="80" y="240" type="curve"/>
+      <point x="160" y="240" type="line"/>
+      <point x="163" y="253"/>
+      <point x="164" y="269"/>
+      <point x="164" y="280" type="curve" smooth="yes"/>
+      <point x="164" y="291"/>
+      <point x="163" y="308"/>
+      <point x="160" y="320" type="curve"/>
+      <point x="80" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="468"/>
+      <point x="76" y="451"/>
+      <point x="76" y="440" type="curve" smooth="yes"/>
+      <point x="76" y="429"/>
+      <point x="77" y="413"/>
+      <point x="80" y="400" type="curve"/>
+      <point x="160" y="400" type="line"/>
+      <point x="163" y="413"/>
+      <point x="164" y="429"/>
+      <point x="164" y="440" type="curve" smooth="yes"/>
+      <point x="164" y="451"/>
+      <point x="163" y="468"/>
+      <point x="160" y="480" type="curve"/>
+      <point x="80" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="228"/>
+      <point x="236" y="211"/>
+      <point x="236" y="200" type="curve" smooth="yes"/>
+      <point x="236" y="189"/>
+      <point x="237" y="173"/>
+      <point x="240" y="160" type="curve"/>
+      <point x="320" y="160" type="line"/>
+      <point x="323" y="173"/>
+      <point x="324" y="189"/>
+      <point x="324" y="200" type="curve" smooth="yes"/>
+      <point x="324" y="211"/>
+      <point x="323" y="228"/>
+      <point x="320" y="240" type="curve"/>
+      <point x="240" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="548"/>
+      <point x="236" y="531"/>
+      <point x="236" y="520" type="curve" smooth="yes"/>
+      <point x="236" y="509"/>
+      <point x="237" y="493"/>
+      <point x="240" y="480" type="curve"/>
+      <point x="320" y="480" type="line"/>
+      <point x="323" y="493"/>
+      <point x="324" y="509"/>
+      <point x="324" y="520" type="curve" smooth="yes"/>
+      <point x="324" y="531"/>
+      <point x="323" y="548"/>
+      <point x="320" y="560" type="curve"/>
+      <point x="240" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="388"/>
+      <point x="276" y="371"/>
+      <point x="276" y="360" type="curve" smooth="yes"/>
+      <point x="276" y="349"/>
+      <point x="277" y="333"/>
+      <point x="280" y="320" type="curve"/>
+      <point x="360" y="320" type="line"/>
+      <point x="363" y="333"/>
+      <point x="364" y="349"/>
+      <point x="364" y="360" type="curve" smooth="yes"/>
+      <point x="364" y="371"/>
+      <point x="363" y="388"/>
+      <point x="360" y="400" type="curve"/>
+      <point x="280" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="468"/>
+      <point x="276" y="451"/>
+      <point x="276" y="440" type="curve" smooth="yes"/>
+      <point x="276" y="429"/>
+      <point x="277" y="413"/>
+      <point x="280" y="400" type="curve"/>
+      <point x="360" y="400" type="line"/>
+      <point x="363" y="413"/>
+      <point x="364" y="429"/>
+      <point x="364" y="440" type="curve" smooth="yes"/>
+      <point x="364" y="451"/>
+      <point x="363" y="468"/>
+      <point x="360" y="480" type="curve"/>
+      <point x="280" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="68"/>
+      <point x="76" y="51"/>
+      <point x="76" y="40" type="curve" smooth="yes"/>
+      <point x="76" y="29"/>
+      <point x="77" y="13"/>
+      <point x="80" y="0" type="curve"/>
+      <point x="160" y="0" type="line"/>
+      <point x="163" y="13"/>
+      <point x="164" y="29"/>
+      <point x="164" y="40" type="curve" smooth="yes"/>
+      <point x="164" y="51"/>
+      <point x="163" y="68"/>
+      <point x="160" y="80" type="curve"/>
+      <point x="80" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="148"/>
+      <point x="76" y="131"/>
+      <point x="76" y="120" type="curve" smooth="yes"/>
+      <point x="76" y="109"/>
+      <point x="77" y="93"/>
+      <point x="80" y="80" type="curve"/>
+      <point x="160" y="80" type="line"/>
+      <point x="163" y="93"/>
+      <point x="164" y="109"/>
+      <point x="164" y="120" type="curve" smooth="yes"/>
+      <point x="164" y="131"/>
+      <point x="163" y="148"/>
+      <point x="160" y="160" type="curve"/>
+      <point x="80" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="228"/>
+      <point x="76" y="211"/>
+      <point x="76" y="200" type="curve" smooth="yes"/>
+      <point x="76" y="189"/>
+      <point x="77" y="173"/>
+      <point x="80" y="160" type="curve"/>
+      <point x="240" y="160" type="line"/>
+      <point x="243" y="173"/>
+      <point x="244" y="189"/>
+      <point x="244" y="200" type="curve" smooth="yes"/>
+      <point x="244" y="211"/>
+      <point x="243" y="228"/>
+      <point x="240" y="240" type="curve"/>
+      <point x="80" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="548"/>
+      <point x="76" y="531"/>
+      <point x="76" y="520" type="curve" smooth="yes"/>
+      <point x="76" y="509"/>
+      <point x="77" y="493"/>
+      <point x="80" y="480" type="curve"/>
+      <point x="240" y="480" type="line"/>
+      <point x="243" y="493"/>
+      <point x="244" y="509"/>
+      <point x="244" y="520" type="curve" smooth="yes"/>
+      <point x="244" y="531"/>
+      <point x="243" y="548"/>
+      <point x="240" y="560" type="curve"/>
+      <point x="80" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="308"/>
+      <point x="276" y="291"/>
+      <point x="276" y="280" type="curve" smooth="yes"/>
+      <point x="276" y="269"/>
+      <point x="277" y="253"/>
+      <point x="280" y="240" type="curve"/>
+      <point x="360" y="240" type="line"/>
+      <point x="363" y="253"/>
+      <point x="364" y="269"/>
+      <point x="364" y="280" type="curve" smooth="yes"/>
+      <point x="364" y="291"/>
+      <point x="363" y="308"/>
+      <point x="360" y="320" type="curve"/>
+      <point x="280" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="388"/>
+      <point x="36" y="371"/>
+      <point x="36" y="360" type="curve" smooth="yes"/>
+      <point x="36" y="349"/>
+      <point x="37" y="333"/>
+      <point x="40" y="320" type="curve"/>
+      <point x="200" y="320" type="line"/>
+      <point x="203" y="333"/>
+      <point x="204" y="349"/>
+      <point x="204" y="360" type="curve" smooth="yes"/>
+      <point x="204" y="371"/>
+      <point x="203" y="388"/>
+      <point x="200" y="400" type="curve"/>
+      <point x="40" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="388"/>
+      <point x="196" y="371"/>
+      <point x="196" y="360" type="curve" smooth="yes"/>
+      <point x="196" y="349"/>
+      <point x="197" y="333"/>
+      <point x="200" y="320" type="curve"/>
+      <point x="240" y="320" type="line"/>
+      <point x="243" y="333"/>
+      <point x="244" y="349"/>
+      <point x="244" y="360" type="curve" smooth="yes"/>
+      <point x="244" y="371"/>
+      <point x="243" y="388"/>
+      <point x="240" y="400" type="curve"/>
+      <point x="200" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:11:00 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>160</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>320</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>400</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>120</integer>
+                <integer>320</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>120</integer>
+                <integer>400</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>80</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixeldbl</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>240</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixeldbl</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>480</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>100</integer>
+                <integer>160</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>100</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>160</integer>
+                <integer>80</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>160</integer>
+                <integer>240</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>peseta</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>400</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

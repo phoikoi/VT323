@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="400"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="147" y="148"/>
+      <point x="146" y="131"/>
+      <point x="146" y="120" type="curve" smooth="yes"/>
+      <point x="146" y="109"/>
+      <point x="147" y="93"/>
+      <point x="150" y="80" type="curve"/>
+      <point x="250" y="80" type="line"/>
+      <point x="253" y="93"/>
+      <point x="254" y="109"/>
+      <point x="254" y="120" type="curve" smooth="yes"/>
+      <point x="254" y="131"/>
+      <point x="253" y="148"/>
+      <point x="250" y="160" type="curve"/>
+      <point x="150" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="-12"/>
+      <point x="186" y="-29"/>
+      <point x="186" y="-40" type="curve" smooth="yes"/>
+      <point x="186" y="-51"/>
+      <point x="187" y="-67"/>
+      <point x="190" y="-80" type="curve"/>
+      <point x="250" y="-80" type="line"/>
+      <point x="253" y="-67"/>
+      <point x="254" y="-51"/>
+      <point x="254" y="-40" type="curve" smooth="yes"/>
+      <point x="254" y="-29"/>
+      <point x="253" y="-12"/>
+      <point x="250" y="0" type="curve"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="68"/>
+      <point x="146" y="51"/>
+      <point x="146" y="40" type="curve" smooth="yes"/>
+      <point x="146" y="29"/>
+      <point x="147" y="13"/>
+      <point x="150" y="0" type="curve"/>
+      <point x="250" y="0" type="line"/>
+      <point x="253" y="13"/>
+      <point x="254" y="29"/>
+      <point x="254" y="40" type="curve" smooth="yes"/>
+      <point x="254" y="51"/>
+      <point x="253" y="68"/>
+      <point x="250" y="80" type="curve"/>
+      <point x="150" y="80" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="-92"/>
+      <point x="146" y="-109"/>
+      <point x="146" y="-120" type="curve" smooth="yes"/>
+      <point x="146" y="-131"/>
+      <point x="147" y="-147"/>
+      <point x="150" y="-160" type="curve"/>
+      <point x="210" y="-160" type="line"/>
+      <point x="213" y="-147"/>
+      <point x="214" y="-131"/>
+      <point x="214" y="-120" type="curve" smooth="yes"/>
+      <point x="214" y="-109"/>
+      <point x="213" y="-92"/>
+      <point x="210" y="-80" type="curve"/>
+      <point x="150" y="-80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-06 09:11:00 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixeldbl</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>110</integer>
+                <integer>80</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>70</integer>
+                <integer>-80</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixeldbl</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>110</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>_part.pixel</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>30</integer>
+                <integer>-160</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>comma</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>400</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
