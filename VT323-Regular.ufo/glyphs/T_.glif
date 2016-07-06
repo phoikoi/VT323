@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="400"/>
+  <unicode hex="0054"/>
+  <outline>
+    <component base="_part.pixel" xOffset="120" yOffset="240"/>
+    <component base="_part.pixel" xOffset="120" yOffset="320"/>
+    <component base="_part.pixel" xOffset="120" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="200" yOffset="480"/>
+    <component base="_part.pixel" xOffset="120" yOffset="80"/>
+    <component base="_part.pixel" xOffset="120" yOffset="160"/>
+    <component base="_part.pixeldbl" yOffset="480"/>
+    <component base="_part.pixel" xOffset="120" yOffset="480"/>
+    <component base="_part.pixel" xOffset="120"/>
+    <contour>
+      <point x="200" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="230" y="20" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="200" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="280" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:05:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

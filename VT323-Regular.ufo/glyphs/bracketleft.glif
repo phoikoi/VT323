@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="400"/>
+  <unicode hex="005B"/>
+  <outline>
+    <component base="_part.pixel" xOffset="100"/>
+    <component base="_part.pixel" xOffset="100" yOffset="80"/>
+    <component base="_part.pixel" xOffset="100" yOffset="160"/>
+    <component base="_part.pixel" xOffset="100" yOffset="240"/>
+    <component base="_part.pixel" xOffset="100" yOffset="320"/>
+    <component base="_part.pixel" xOffset="100" yOffset="400"/>
+    <component base="_part.pixel" xOffset="100" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="560"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:13:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

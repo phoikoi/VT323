@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="400"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="_part.pixel"/>
+    <component base="_part.pixel" xOffset="45" yOffset="80"/>
+    <component base="_part.pixel" xOffset="85" yOffset="160"/>
+    <component base="_part.pixel" xOffset="130" yOffset="240"/>
+    <component base="_part.pixel" xOffset="175" yOffset="320"/>
+    <component base="_part.pixel" xOffset="215" yOffset="400"/>
+    <component base="_part.pixel" xOffset="260" yOffset="480"/>
+    <component base="_part.pixel" yOffset="400"/>
+    <component base="_part.pixel" xOffset="90" yOffset="400"/>
+    <component base="_part.pixel" xOffset="35" yOffset="480"/>
+    <component base="_part.pixel" xOffset="35" yOffset="320"/>
+    <component base="_part.pixel" xOffset="170" yOffset="80"/>
+    <component base="_part.pixel" xOffset="260" yOffset="80"/>
+    <component base="_part.pixel" xOffset="205" yOffset="160"/>
+    <component base="_part.pixel" xOffset="205"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 08:48:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

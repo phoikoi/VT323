@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="1">
+  <advance width="400"/>
+  <unicode hex="0035"/>
+  <outline>
+    <component base="_part.pixel" xOffset="20" yOffset="80"/>
+    <component base="_part.pixel" xOffset="210" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="60"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="210" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="130" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="240"/>
+    <component base="_part.pixel" xOffset="20" yOffset="320"/>
+    <component base="_part.pixel" xOffset="20" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:12:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

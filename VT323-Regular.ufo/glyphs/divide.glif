@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="400"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="40" yOffset="240"/>
+    <component base="_part.pixel" xOffset="120" yOffset="400"/>
+    <component base="_part.pixel" xOffset="120" yOffset="80"/>
+    <component base="_part.pixel" xOffset="200" yOffset="240"/>
+    <component base="_part.pixel" xOffset="120"/>
+    <component base="_part.pixel" xOffset="120" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:58:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

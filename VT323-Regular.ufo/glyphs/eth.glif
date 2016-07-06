@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="400"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <component base="_part.pixel" xOffset="30" yOffset="80"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" xOffset="30" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="320"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="200"/>
+    <component base="_part.pixel" xOffset="240" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="200" yOffset="320"/>
+    <component base="_part.pixel" xOffset="110" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="150" yOffset="480"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="560"/>
+    <component base="_part.pixel" xOffset="210" yOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 11:19:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

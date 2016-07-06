@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="400"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="_part.pixel" xOffset="115" yOffset="240"/>
+    <component base="_part.pixel" xOffset="85" yOffset="160"/>
+    <component base="_part.pixel" xOffset="55" yOffset="80"/>
+    <component base="_part.pixel" xOffset="175" yOffset="400"/>
+    <component base="_part.pixel" xOffset="205" yOffset="480"/>
+    <component base="_part.pixel" xOffset="260" yOffset="80"/>
+    <component base="_part.pixel" xOffset="260"/>
+    <component base="_part.pixel" xOffset="260" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="220" yOffset="240"/>
+    <component base="_part.pixel" xOffset="200" yOffset="160"/>
+    <component base="_part.pixel" xOffset="180" yOffset="80"/>
+    <component base="_part.pixel" xOffset="260" yOffset="-80"/>
+    <component base="_part.pixeldbl" xOffset="160"/>
+    <component base="_part.pixel" xOffset="100" yOffset="480"/>
+    <component base="_part.pixeldbl" yOffset="560"/>
+    <component base="_part.pixeldbl" xOffset="30" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="320"/>
+    <component base="_part.pixeldbl" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 13:52:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

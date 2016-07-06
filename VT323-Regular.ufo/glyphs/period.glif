@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="400"/>
+  <unicode hex="002E"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="110" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:02:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

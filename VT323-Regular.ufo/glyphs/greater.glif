@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="400"/>
+  <unicode hex="003E"/>
+  <outline>
+    <component base="_part.pixel" xOffset="45" yOffset="480"/>
+    <component base="_part.pixel" xOffset="95" yOffset="400"/>
+    <component base="_part.pixel" xOffset="145" yOffset="320"/>
+    <component base="_part.pixel" xOffset="195" yOffset="240"/>
+    <component base="_part.pixel" xOffset="145" yOffset="160"/>
+    <component base="_part.pixel" xOffset="95" yOffset="80"/>
+    <component base="_part.pixel" xOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 22:00:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

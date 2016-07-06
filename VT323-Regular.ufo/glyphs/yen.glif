@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="400"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <component base="_part.pixel" xOffset="20" yOffset="400"/>
+    <component base="_part.pixel" xOffset="60" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="240"/>
+    <component base="_part.pixel" xOffset="180" yOffset="320"/>
+    <component base="_part.pixel" xOffset="220" yOffset="400"/>
+    <component base="_part.pixel" xOffset="120" yOffset="160"/>
+    <component base="_part.pixel" xOffset="120"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="220" yOffset="480"/>
+    <component base="_part.pixeldbl" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:48:01 +0000</string>
+    </dict>
+  </lib>
+</glyph>

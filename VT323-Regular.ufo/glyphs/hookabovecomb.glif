@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb" format="1">
+  <advance width="400"/>
+  <unicode hex="0309"/>
+  <outline>
+    <component base="_part.pixel" xOffset="160" yOffset="560"/>
+    <component base="_part.pixel" xOffset="120" yOffset="480"/>
+    <component base="_part.pixel" xOffset="120" yOffset="640"/>
+    <contour>
+      <point x="200" y="720" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="400" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 20:48:35 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

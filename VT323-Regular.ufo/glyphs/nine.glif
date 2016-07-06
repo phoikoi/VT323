@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="400"/>
+  <unicode hex="0039"/>
+  <outline>
+    <component base="_part.pixel" xOffset="195" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="195" yOffset="320"/>
+    <component base="_part.pixel" xOffset="195" yOffset="80"/>
+    <component base="_part.pixel" xOffset="15" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="75" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="55"/>
+    <component base="_part.pixel" xOffset="15" yOffset="320"/>
+    <component base="_part.pixel" xOffset="225" yOffset="240"/>
+    <component base="_part.pixel" xOffset="225" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="55" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:21:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

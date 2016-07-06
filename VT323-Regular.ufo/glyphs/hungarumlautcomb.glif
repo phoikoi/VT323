@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb" format="1">
+  <advance width="400"/>
+  <unicode hex="030B"/>
+  <outline>
+    <component base="_part.pixel" xOffset="70" yOffset="480"/>
+    <component base="_part.pixel" xOffset="100" yOffset="560"/>
+    <component base="_part.pixel" xOffset="190" yOffset="480"/>
+    <component base="_part.pixel" xOffset="220" yOffset="560"/>
+    <contour>
+      <point x="200" y="640" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="400" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 13:26:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

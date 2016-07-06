@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="400"/>
+  <unicode hex="0037"/>
+  <outline>
+    <component base="_part.pixel" xOffset="220" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="20" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="180" yOffset="480"/>
+    <component base="_part.pixel" xOffset="190" yOffset="320"/>
+    <component base="_part.pixel" xOffset="160" yOffset="240"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixel" xOffset="100" yOffset="80"/>
+    <component base="_part.pixel" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:17:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

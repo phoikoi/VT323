@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="400"/>
+  <unicode hex="0034"/>
+  <outline>
+    <component base="_part.pixel" xOffset="200" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="160"/>
+    <component base="_part.pixel" xOffset="200"/>
+    <component base="_part.pixel" xOffset="200" yOffset="240"/>
+    <component base="_part.pixel" xOffset="200" yOffset="320"/>
+    <component base="_part.pixel" xOffset="200" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="140" yOffset="480"/>
+    <component base="_part.pixeldbl" yOffset="160"/>
+    <component base="_part.pixel" xOffset="30" yOffset="240"/>
+    <component base="_part.pixel" xOffset="60" yOffset="320"/>
+    <component base="_part.pixel" xOffset="90" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:07:30 +0000</string>
+    </dict>
+  </lib>
+</glyph>

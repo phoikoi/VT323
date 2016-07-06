@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="400"/>
+  <unicode hex="005C"/>
+  <outline>
+    <component base="_part.pixel" yOffset="560"/>
+    <component base="_part.pixel" xOffset="30" yOffset="480"/>
+    <component base="_part.pixel" xOffset="60" yOffset="400"/>
+    <component base="_part.pixel" xOffset="90" yOffset="320"/>
+    <component base="_part.pixel" xOffset="120" yOffset="240"/>
+    <component base="_part.pixel" xOffset="150" yOffset="160"/>
+    <component base="_part.pixel" xOffset="180" yOffset="80"/>
+    <component base="_part.pixel" xOffset="210"/>
+    <component base="_part.pixel" xOffset="240" yOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:40:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

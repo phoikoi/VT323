@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls" format="1">
+  <advance width="400"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <component base="_part.pixel" xOffset="40" yOffset="80"/>
+    <component base="_part.pixeldbl"/>
+    <component base="_part.pixeldbl" xOffset="80" yOffset="480"/>
+    <component base="_part.pixel" xOffset="40" yOffset="160"/>
+    <component base="_part.pixel" xOffset="40" yOffset="240"/>
+    <component base="_part.pixel" xOffset="40" yOffset="400"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+    <component base="_part.pixel" xOffset="240" yOffset="320"/>
+    <component base="_part.pixeldbl" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="200" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="160"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixel" xOffset="240" yOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 11:00:39 +0000</string>
+    </dict>
+  </lib>
+</glyph>

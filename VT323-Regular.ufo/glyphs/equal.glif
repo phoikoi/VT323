@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="400"/>
+  <unicode hex="003D"/>
+  <outline>
+    <component base="_part.pixeldbl" xOffset="40" yOffset="320"/>
+    <component base="_part.pixel" xOffset="200" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="40" yOffset="160"/>
+    <component base="_part.pixel" xOffset="200" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:58:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

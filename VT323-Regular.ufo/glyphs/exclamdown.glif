@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="400"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="_part.pixel" xOffset="120" yOffset="-80"/>
+    <component base="_part.pixel" xOffset="120"/>
+    <component base="_part.pixel" xOffset="120" yOffset="80"/>
+    <component base="_part.pixel" xOffset="120" yOffset="160"/>
+    <component base="_part.pixel" xOffset="120" yOffset="240"/>
+    <component base="_part.pixel" xOffset="120" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 20:54:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

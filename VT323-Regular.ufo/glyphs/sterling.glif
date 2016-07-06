@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="400"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <component base="_part.pixeldbl"/>
+    <component base="_part.pixel" xOffset="60" yOffset="80"/>
+    <component base="_part.pixel" xOffset="60" yOffset="160"/>
+    <component base="_part.pixel" xOffset="60" yOffset="320"/>
+    <component base="_part.pixel" xOffset="60" yOffset="400"/>
+    <component base="_part.pixeldbl" xOffset="100" yOffset="480"/>
+    <component base="_part.pixeldbl" yOffset="240"/>
+    <component base="_part.pixel" xOffset="140" yOffset="240"/>
+    <component base="_part.pixeldbl" xOffset="140"/>
+    <component base="_part.pixel" xOffset="260" yOffset="80"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-04 21:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

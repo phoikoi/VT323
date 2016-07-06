@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="400"/>
+  <unicode hex="2122"/>
+  <outline>
+    <component base="_part.pixeldbl" yOffset="480"/>
+    <component base="_part.pixel" xOffset="140" yOffset="400"/>
+    <component base="_part.pixel" xOffset="140" yOffset="320"/>
+    <component base="_part.pixel" xOffset="140" yOffset="480"/>
+    <component base="_part.pixel" xOffset="210" yOffset="400"/>
+    <component base="_part.pixel" xOffset="280" yOffset="400"/>
+    <component base="_part.pixel" xOffset="250" yOffset="480"/>
+    <component base="_part.pixel" xOffset="270" yOffset="320"/>
+    <component base="_part.pixel" xOffset="140" yOffset="240"/>
+    <component base="_part.pixel" xOffset="270" yOffset="240"/>
+    <component base="_part.pixel" xOffset="35" yOffset="320"/>
+    <component base="_part.pixel" xOffset="35" yOffset="240"/>
+    <component base="_part.pixel" xOffset="35" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 21:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

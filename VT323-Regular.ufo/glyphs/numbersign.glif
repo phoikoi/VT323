@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="400"/>
+  <unicode hex="0023"/>
+  <outline>
+    <component base="_part.pixel" xOffset="50" yOffset="80"/>
+    <component base="_part.pixel" xOffset="50" yOffset="240"/>
+    <component base="_part.pixel" xOffset="50" yOffset="320"/>
+    <component base="_part.pixeldbl" yOffset="400"/>
+    <component base="_part.pixel" xOffset="50" yOffset="480"/>
+    <component base="_part.pixel" xOffset="190" yOffset="80"/>
+    <component base="_part.pixel" xOffset="190" yOffset="240"/>
+    <component base="_part.pixel" xOffset="190" yOffset="320"/>
+    <component base="_part.pixel" xOffset="190" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="400"/>
+    <component base="_part.pixeldbl" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="160" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 08:40:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

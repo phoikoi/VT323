@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="1">
+  <advance width="400"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="_part.pixel" xOffset="260" yOffset="320"/>
+    <component base="_part.pixel" xOffset="260" yOffset="400"/>
+    <component base="_part.pixel" xOffset="217" yOffset="240"/>
+    <component base="_part.pixel"/>
+    <component base="_part.pixel" yOffset="80"/>
+    <component base="_part.pixel" yOffset="160"/>
+    <component base="_part.pixel" xOffset="75" yOffset="320"/>
+    <component base="_part.pixel" xOffset="130"/>
+    <component base="_part.pixel" xOffset="130" yOffset="80"/>
+    <component base="_part.pixel" xOffset="130" yOffset="160"/>
+    <component base="_part.pixel" xOffset="110" yOffset="240"/>
+    <component base="_part.pixel" yOffset="240"/>
+    <component base="_part.pixel" yOffset="320"/>
+    <component base="_part.pixeldbl" xOffset="130" yOffset="400"/>
+    <component base="_part.pixel" yOffset="400"/>
+    <component base="_part.pixel" xOffset="130" yOffset="480"/>
+    <component base="_part.pixel" yOffset="480"/>
+    <component base="_part.pixel" xOffset="217" yOffset="480"/>
+    <component base="_part.pixeldbl" xOffset="140" yOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 19:57:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

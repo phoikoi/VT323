@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="400"/>
+  <unicode hex="0057"/>
+  <outline>
+    <component base="_part.pixel" yOffset="320"/>
+    <component base="_part.pixel" xOffset="240" yOffset="320"/>
+    <component base="_part.pixel" xOffset="130" yOffset="320"/>
+    <component base="_part.pixel" yOffset="240"/>
+    <component base="_part.pixel" xOffset="240" yOffset="240"/>
+    <component base="_part.pixel" xOffset="130" yOffset="240"/>
+    <component base="_part.pixel" xOffset="30" yOffset="160"/>
+    <component base="_part.pixel" xOffset="240" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="110" yOffset="160"/>
+    <component base="_part.pixeldbl" xOffset="30" yOffset="80"/>
+    <component base="_part.pixeldbl" xOffset="190" yOffset="80"/>
+    <component base="_part.pixel" xOffset="50"/>
+    <component base="_part.pixel" xOffset="210"/>
+    <component base="_part.pixel" yOffset="400"/>
+    <component base="_part.pixel" xOffset="240" yOffset="400"/>
+    <component base="_part.pixel" xOffset="130" yOffset="400"/>
+    <component base="_part.pixel" yOffset="480"/>
+    <component base="_part.pixel" xOffset="240" yOffset="480"/>
+    <component base="_part.pixel" xOffset="130" yOffset="480"/>
+    <contour>
+      <point x="200" y="560" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="200" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-07-05 19:47:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>
