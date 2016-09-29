@@ -121,6 +121,10 @@ value = -306;
 {
 name = underlineThickness;
 value = 102;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -200;
@@ -23754,18 +23758,6 @@ width = 400;
 }
 );
 unicode = 25CA;
-},
-{
-color = 4;
-glyphname = apple;
-lastChange = "2016-08-03 13:29:55 +0000";
-layers = (
-{
-layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
-width = 400;
-}
-);
-unicode = F8FF;
 },
 {
 glyphname = at;
