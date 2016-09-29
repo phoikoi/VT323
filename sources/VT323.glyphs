@@ -1,15 +1,32 @@
 {
-.appVersion = "913";
-copyright = "Copyright (c) 2011, Peter Hull (peter.hull@oikoi.com), with Reserved Font Name \"VT323\".";
+.appVersion = "924";
+copyright = "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)";
 customParameters = (
 {
 name = isFixedPitch;
+value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
 value = 1;
 }
 );
 date = "2016-07-06 08:15:39 +0000";
 designer = "Peter Hull";
-familyName = VT323_v3;
+familyName = VT323;
 featurePrefixes = (
 {
 automatic = 1;
@@ -68,6 +85,44 @@ fontMaster = (
 {
 ascender = 800;
 capHeight = 560;
+customParameters = (
+{
+name = typoAscender;
+value = 1638;
+},
+{
+name = typoDescender;
+value = -409;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1638;
+},
+{
+name = winDescent;
+value = 409;
+},
+{
+name = hheaAscender;
+value = 1638;
+},
+{
+name = hheaDescender;
+value = -409;
+},
+{
+name = underlinePosition;
+value = -306;
+},
+{
+name = underlineThickness;
+value = 102;
+}
+);
 descender = -200;
 guideLines = (
 {
@@ -27606,6 +27661,6 @@ name = Regular;
 }
 );
 unitsPerEm = 1000;
-versionMajor = 1;
-versionMinor = 1;
+versionMajor = 2;
+versionMinor = 0;
 }
