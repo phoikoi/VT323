@@ -9,3 +9,7 @@
 # Names should be added to this file as:
 # Name <email address>
 
+Peter Hull <design.services@oikoi.com>
+Dave Crossland <dave@lab6.com>
+Jacques Le Bailly <fonthausen@baronvonfonthausen.com>
+Lasse Fister <commander@graphicore.de>
