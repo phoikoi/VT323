@@ -11,10 +11,3 @@ I'm sorry I can't provide more of the original Python source for this
 typeface, but a disk crash consigned the source to the great bit bucket
 in the sky, in the era before I started using Github.
 
-
-# Completed tasks:
-
-# Todo:
-
-* Improve README.md
-* Run fonts through Fontbakery and ship fonts.
