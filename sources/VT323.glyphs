@@ -100,11 +100,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1638;
+value = 1040;
 },
 {
 name = winDescent;
-value = 409;
+value = 240;
 },
 {
 name = hheaAscender;
@@ -26531,7 +26531,7 @@ width = 400;
 {
 color = 4;
 glyphname = apostrophemod;
-lastChange = "2016-09-29 18:36:26 +0000";
+lastChange = "2016-09-29 20:32:56 +0000";
 layers = (
 {
 anchors = (
@@ -27701,7 +27701,7 @@ width = 400;
 },
 {
 glyphname = NULL;
-lastChange = "2016-09-29 15:32:34 +0000";
+lastChange = "2016-09-29 20:32:48 +0000";
 layers = (
 {
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
