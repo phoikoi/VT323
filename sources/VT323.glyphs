@@ -52,7 +52,7 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012";
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
 name = sups;
 },
 {
@@ -17420,6 +17420,73 @@ unicode = 00B3;
 },
 {
 color = 4;
+glyphname = foursuperior;
+lastChange = "2016-09-29 18:56:10 +0000";
+layers = (
+{
+components = (
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 170, 400}";
+piece = {
+Pixelwidth = 60;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 170, 320}";
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 170, 480}";
+piece = {
+Pixelwidth = 60;
+};
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 130, 560}";
+piece = {
+"Pixel width" = 100;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 110, 480}";
+piece = {
+Pixelwidth = 40;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 90, 400}";
+piece = {
+Pixelwidth = 40;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 170, 240}";
+piece = {
+Pixelwidth = 60;
+};
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 70, 320}";
+piece = {
+"Pixel width" = 100;
+};
+}
+);
+layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
+width = 400;
+}
+);
+unicode = 2074;
+},
+{
+color = 4;
 glyphname = fraction;
 lastChange = "2016-08-03 13:29:55 +0000";
 layers = (
@@ -19947,17 +20014,6 @@ unicode = 000D;
 {
 glyphname = .notdef;
 lastChange = "2016-08-03 13:30:16 +0000";
-layers = (
-{
-layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
-width = 400;
-}
-);
-},
-{
-color = 4;
-glyphname = .null;
-lastChange = "2016-08-03 13:29:55 +0000";
 layers = (
 {
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
@@ -26475,7 +26531,7 @@ width = 400;
 {
 color = 4;
 glyphname = apostrophemod;
-lastChange = "2016-08-03 13:29:55 +0000";
+lastChange = "2016-09-29 18:36:26 +0000";
 layers = (
 {
 anchors = (
