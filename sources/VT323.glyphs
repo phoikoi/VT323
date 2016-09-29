@@ -10105,6 +10105,68 @@ width = 400;
 unicode = 1EBD;
 },
 {
+color = 4;
+glyphname = schwa;
+lastChange = "2016-08-03 13:29:55 +0000";
+layers = (
+{
+components = (
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 210, 240}";
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 160, 160}";
+piece = {
+"Pixel width" = 159.764;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 210, 80}";
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 0, 80}";
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 160, 320}";
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 40, 320}";
+piece = {
+"Pixel width" = 120;
+};
+},
+{
+name = _part.pixel;
+transform = "{1, 0, 0, 1, 160, 0}";
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 40, 0}";
+piece = {
+"Pixel width" = 120;
+};
+},
+{
+name = _part.pixeldbl;
+transform = "{1, 0, 0, 1, 0, 160}";
+piece = {
+"Pixel width" = 159.764;
+};
+}
+);
+layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
+width = 400;
+}
+);
+unicode = 0259;
+},
+{
 glyphname = f;
 lastChange = "2016-08-03 13:30:16 +0000";
 layers = (
@@ -13880,68 +13942,6 @@ width = 400;
 }
 );
 unicode = 00DF;
-},
-{
-color = 4;
-glyphname = schwa;
-lastChange = "2016-08-03 13:29:55 +0000";
-layers = (
-{
-components = (
-{
-name = _part.pixel;
-transform = "{1, 0, 0, 1, 210, 240}";
-},
-{
-name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 160, 160}";
-piece = {
-"Pixel width" = 159.764;
-};
-},
-{
-name = _part.pixel;
-transform = "{1, 0, 0, 1, 210, 80}";
-},
-{
-name = _part.pixel;
-transform = "{1, 0, 0, 1, 0, 80}";
-},
-{
-name = _part.pixel;
-transform = "{1, 0, 0, 1, 160, 320}";
-},
-{
-name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 40, 320}";
-piece = {
-"Pixel width" = 120;
-};
-},
-{
-name = _part.pixel;
-transform = "{1, 0, 0, 1, 160, 0}";
-},
-{
-name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 40, 0}";
-piece = {
-"Pixel width" = 120;
-};
-},
-{
-name = _part.pixeldbl;
-transform = "{1, 0, 0, 1, 0, 160}";
-piece = {
-"Pixel width" = 159.764;
-};
-}
-);
-layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
-width = 400;
-}
-);
-unicode = 0259;
 },
 {
 glyphname = t;
@@ -27648,6 +27648,16 @@ transform = "{1, 0, 0, 1, 240, 560}";
 );
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
 width = 400;
+}
+);
+},
+{
+glyphname = NULL;
+lastChange = "2016-09-29 15:32:34 +0000";
+layers = (
+{
+layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
+width = 0;
 }
 );
 }
