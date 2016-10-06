@@ -1,4 +1,4 @@
-Copyright (c) 2011, Peter Hull
+Copyright (c) 2011, Peter Hull (peter.hull@oikoi.com), with Reserved Font Name "VT323".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
