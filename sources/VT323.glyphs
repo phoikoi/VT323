@@ -1,5 +1,5 @@
 {
-.appVersion = "924";
+.appVersion = "926";
 copyright = "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)";
 customParameters = (
 {
@@ -27701,13 +27701,14 @@ width = 400;
 },
 {
 glyphname = NULL;
-lastChange = "2016-09-29 20:32:48 +0000";
+lastChange = "2016-10-06 21:04:18 +0000";
 layers = (
 {
 layerId = "DA6254B3-9514-4A47-8309-1A9185AEAC97";
 width = 0;
 }
 );
+unicode = 0000;
 }
 );
 instances = (
