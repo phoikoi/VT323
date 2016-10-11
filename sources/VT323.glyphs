@@ -100,11 +100,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 800;
+value = 1040;
 },
 {
 name = winDescent;
-value = 200;
+value = 240;
 },
 {
 name = hheaAscender;
@@ -121,6 +121,10 @@ value = -149;
 {
 name = underlineThickness;
 value = 50;
+},
+{
+name = hheaLineGap;
+value = 0;
 }
 );
 descender = -200;
