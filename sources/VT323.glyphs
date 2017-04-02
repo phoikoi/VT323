@@ -88,11 +88,11 @@ capHeight = 560;
 customParameters = (
 {
 name = typoAscender;
-value = 1638;
+value = 800;
 },
 {
 name = typoDescender;
-value = -409;
+value = -200;
 },
 {
 name = typoLineGap;
@@ -108,19 +108,19 @@ value = 240;
 },
 {
 name = hheaAscender;
-value = 1638;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -409;
+value = -200;
 },
 {
 name = underlinePosition;
-value = -306;
+value = -149;
 },
 {
 name = underlineThickness;
-value = 102;
+value = 50;
 },
 {
 name = hheaLineGap;
